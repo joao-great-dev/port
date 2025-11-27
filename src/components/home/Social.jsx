@@ -1,6 +1,5 @@
 import React from "react";
 import git from "../../assests/github-unscreen.gif"
-import linkedin from "../../assests/linkedincrop.gif"
 
 const Social = () => {
   return (

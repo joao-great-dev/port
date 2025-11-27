@@ -22,21 +22,21 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://github.com/Ankur-Singh-jpg"
+            href="https://github.com/tomasz-ponikowski/"
             className="footer__social-link"
           >
             <i class="bx bxl-github"></i>
           </a>
 
           <a
-            href="https://www.linkedin.com/in/ankur-singh-715a79323/"
+            href="http://www.linkedin.com/in/tomasz-ponikowski-579b52397"
             className="footer__social-link"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
         </div>
 
-        <span className="footer__copy">Made by Emirhan Dere</span>
+        <span className="footer__copy">Made by Tomasz Ponikowski</span>
       </div>
     </footer>
   );

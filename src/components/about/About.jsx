@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import  AboutImg  from "../../assests/img.jpg";
-import CV from "../../assests/Tomasz.docx";
+import CV from "../../assests/Joao.docx";
 import Info from './Info';
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
             <Info />
 
             <p className="about__description">
-            Passionate frontend developer focused on building intuitive, responsive, and visually engaging web applications using modern technologies like React, JavaScript, and CSS.
+            Experienced in product management practices including defining product vision, prioritizing feature roadmaps, and translating stakeholder needs into actionable technical requirements.
             </p>
             <a download="" href={CV} className="button button--flex">
                 Download CV

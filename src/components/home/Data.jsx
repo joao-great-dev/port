@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Tomasz Ponikowski
+        João Lourenco Clemente
         <svg
           width="36"
           height="36"
@@ -56,7 +56,7 @@ const Data = () => {
         </svg>
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
-      <p className="home__description">I'm a Software Engineer based in Poland, and I am highly motivated, passionate, and fully committed to my work.</p>
+      <p className="home__description">Golang and Python Engineer with over 15 years of experience delivering scalable, secure, and data-driven enterprise applications for commercial and government clients. Proven expertise in designing cloud-native solutions, integrating front-end frameworks, and architecting backend APIs with CI/CD and Agile methodologies. Adept at building automated solutions, strengthening application security, and embedding AI/ML features to enhance performance and decision-making. Skilled at collaborating across cross-functional teams and aligning development with government compliance and enterprise-wide data inventory efforts.</p>
 
       <a href="#contact" className="button button--flex"> Say Hello!!!
       <svg

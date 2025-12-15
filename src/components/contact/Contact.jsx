@@ -19,11 +19,11 @@ const Contact = () => {
 
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">
-                emirhandere333@gmail.com
+                Joaoclementegreatdev@gmail.com 
               </span>
 
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=emirhandere333@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=Joaoclementegreatdev@gmail.com "
                 target="_blank"
                 className="contact__button"
                 rel="noreferrer"
@@ -31,13 +31,6 @@ const Contact = () => {
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
-            </div>
-
-            <div className="contact__card">
-              <i className="bx bxl-linkedin contact__card-icon"></i>
-
-              <h3 className="contact__card-title">Linkedin</h3>
-              <span className="contact__card-data">Tomasz Ponikowski</span>
             </div>
           </div>
         </div>

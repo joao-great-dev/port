@@ -29,14 +29,14 @@ const Footer = () => {
           </a>
 
           <a
-            href="http://www.linkedin.com/in/tomasz-ponikowski-579b52397"
+            href="https://www.linkedin.com/in/Joao-c-/"
             className="footer__social-link"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
         </div>
 
-        <span className="footer__copy">Made by Tomasz Ponikowski</span>
+        <span className="footer__copy">Made by João Lourenco Clemente</span>
       </div>
     </footer>
   );

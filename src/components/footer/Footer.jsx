@@ -22,7 +22,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://github.com/tomasz-ponikowski/"
+            href="https://github.com/joao-great-dev"
             className="footer__social-link"
           >
             <i class="bx bxl-github"></i>
